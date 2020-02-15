@@ -1,0 +1,3 @@
+Hello World
+Created and wrote in bar.txt
+All this using Python
